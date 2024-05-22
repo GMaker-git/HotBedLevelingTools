@@ -17,7 +17,7 @@ Amazon
 
 ### Step1:Copy Gcode file to printer
 
-Download file from release file  Download,Copy these 3 files to the printer
+Download file from release file  [Download](https://github.com/GMaker-git/HotBedLevelingTools/releases/download/untagged-4561f042eec0ec26711c/GcodesAndModel.zip) ,Copy these 3 files to the printer
 
 1.MoveZAndHot.gcode
 
